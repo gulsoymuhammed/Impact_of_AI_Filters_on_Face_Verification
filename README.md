@@ -10,8 +10,11 @@ creative for these filters. After all these information, this work uses human fa
 that using human face without permission is not legal. Therefore, it is used that LFW which is publicly shared clean and popular
 data set. In this project, OpenFilter framework and ManyCam is used for applying filter on face of humans. It is examined that
 the a couple of results for between original and filtered images.
+
+
+
 ![jennifer](https://github.com/gulsoymuhammed/Impact_of_AI_Filters_on_Face_Verification/assets/120602426/4f2722e9-6926-4034-b594-62e23ca2c6ca)
-![alt text](https://drive.google.com/file/d/1qI7xvCbaZtYuwKcbvEss5NyK2rpDsCDo/view?usp=drive_link)
+![tom](https://github.com/gulsoymuhammed/Impact_of_AI_Filters_on_Face_Verification/assets/120602426/7f66a2f6-1874-4fb9-8b4c-b3d1ef4c85ee)
 
 
 You can find more information about project via this drive link. https://drive.google.com/file/d/1wwjyqBJ4GO_4wXTvo2mrAnFZmHsCCrSa/view?usp=sharing
