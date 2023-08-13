@@ -17,4 +17,4 @@ the a couple of results for between original and filtered images.
 ![tom](https://github.com/gulsoymuhammed/Impact_of_AI_Filters_on_Face_Verification/assets/120602426/7f66a2f6-1874-4fb9-8b4c-b3d1ef4c85ee)
 
 
-You can find more information about project via this drive link. https://drive.google.com/file/d/1wwjyqBJ4GO_4wXTvo2mrAnFZmHsCCrSa/view?usp=sharing
+You can find more informations from this paper via this drive link. https://drive.google.com/file/d/1wwjyqBJ4GO_4wXTvo2mrAnFZmHsCCrSa/view?usp=sharing
